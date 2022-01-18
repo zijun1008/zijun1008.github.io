@@ -13,16 +13,15 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Business Jekyll Theme
-email: your-email@example.com
+title: Zijun Xie
+email: zijunxie2021@u.northwestern.edu
 description: > # this means to ignore newlines until "baseurl:"
-  Yet another Jekyll theme. It is designed for business purpose and ported by 
-  Melvin Ch'ng.
+  My personal website.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Company Information
-company_name: Johns, Smith & Associates
+company_name: Northwestern University
 address_line: Via Ludovisi 39-45, Rome, 54267, Italy
 telephone_number: 1.800.245.356
 fax_number: 1.800.245.357
@@ -32,7 +31,7 @@ google_map: https://www.google.com/maps/embed?pb=!1m14!1m12!1m3!1d3618.727010735
 # Social Link
 facebook_link: http://www.facebook.com
 twitter_link: http://www.twitter.com
-linkedin_link: http://www.linkedin.com
+linkedin_link: https://www.linkedin.com/in/zijunxie/
 googleplus_link: http://plus.google.com
 
 # Build settings
